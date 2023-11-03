@@ -28,23 +28,18 @@ This guide will assist in configuring the laboratory environment for real-time c
         - All default configuration
 
 #### Backup settings
----------------
         - All default configuration
 
 #### Server-side encrytion
----------------------
         - All default configuration
 
 #### Destination error logs
-----------------------
         - Amazon CloudWatch error logging -> Enabled
 
 #### Service access
---------------
         - IAM role -> YOUR IAM ROLE
 
 #### Tags
-----
         - All default configuration
 
 
