@@ -23,31 +23,31 @@ This guide will assist in configuring the laboratory environment for real-time c
 
 Destination settings
 --------------------
-S3 bucket -> YOUR DATA RAW BUCKET
-S3 bucket prefix -> YOUR PREFIX BUCKET
-Buffer size -> 5 MiB
-Buffer interval -> 300 seconds
-All default configuration
+- S3 bucket -> YOUR DATA RAW BUCKET
+- S3 bucket prefix -> YOUR PREFIX BUCKET
+- Buffer size -> 5 MiB
+- Buffer interval -> 300 seconds
+- All default configuration
 
 Backup settings
 ---------------
-All default configuration
+- All default configuration
 
 Server-side encrytion
 ---------------------
-All default configuration
+- All default configuration
 
 Destination error logs
 ----------------------
-Amazon CloudWatch error logging -> Enabled
+- Amazon CloudWatch error logging -> Enabled
 
 Service access
 --------------
-IAM role -> YOUR IAM ROLE
+- IAM role -> YOUR IAM ROLE
 
 Tags
 ----
-All default configuration
+- All default configuration
 
 
 ## Architecture Diagram
