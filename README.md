@@ -10,15 +10,15 @@ This guide will assist in configuring the laboratory environment for real-time c
 ## Setup
 ###  AWS KINESIS DATA FIREHOUSE:
 
-#### Transform and convert records
-  - Data transformation -> On
-  - Buffer size -> 1 MiB
-  - Buffer interval -> 60 seconds
-  - Lambda function -> ClickStreamingLambda
-  - Lambda function version -> $LATEST
-  - Runtime -> python3.7
-  - Timeout -> 1 minute
-  - All default configuration
+####   Transform and convert records
+        - Data transformation -> On
+        - Buffer size -> 1 MiB
+        - Buffer interval -> 60 seconds
+        - Lambda function -> ClickStreamingLambda
+        - Lambda function version -> $LATEST
+        - Runtime -> python3.7
+        - Timeout -> 1 minute
+        - All default configuration
 
 #### Destination settings
 --------------------
