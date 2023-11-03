@@ -8,9 +8,9 @@
 This guide will assist in configuring the laboratory environment for real-time clickstream anomaly detection, emphasizing its practical application.
 
 ## Setup
-### AWS KINESIS DATA FIREHOUSE - Setting:
+### AWS KINESIS DATA FIREHOUSE - SETTINGS:
 
-- Transform and convert records
+  Transform and convert records
   -----------------------------
 - Data transformation -> On
 - Buffer size -> 1 MiB
