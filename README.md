@@ -42,6 +42,31 @@ This guide will assist in configuring the laboratory environment for real-time c
 #### Tags
         - All default configuration
 
+###  AWS LAMBDA:
+
+#### General configuration
+        - Timeout -> 1 min 0 sec
+        - Memory -> 128 MB
+        - SnapStart -> None
+        - Ephemeral storage -> 512 MB
+
+#### Runtime settings
+        - Runtime -> Python 3.7
+        - Handler -> lambda_function.lambda_handler
+        - Architecture -> x86_64
+
+#### Execution role
+        - logs:CreateLogGroup -> YOUR ARN  
+        - logs:CreateLogStream -> YOUR ARN 
+        - logs:PutLogEvents -> YOUR ARN 
+ 
+#### Layers
+        - Merge order -> 1
+        - Name -> AWSSDKPandas-Python37
+        - Layer version -> 5
+        - Compatible runtimes -> python3.7
+        - Compatible architectures -> x86_64
+        - Version ARN -> YOUR ARN
 
 ## Architecture-Diagram
 ![Architecture Diagram](AWS_ClickStreaming.jpg)
