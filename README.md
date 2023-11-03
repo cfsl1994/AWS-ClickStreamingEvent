@@ -2,7 +2,7 @@
 ## Steps
 - [Introduction](##Introduction)
 - [Setup](##Setup)
-- [Architecture Diagram](##Architecture-Diagram)
+- [Architecture Diagram](##Architecture_Diagram)
 
 ## Introduction
 This guide will assist in configuring the laboratory environment for real-time clickstream anomaly detection, emphasizing its practical application.
@@ -50,5 +50,5 @@ Tags
 - All default configuration
 
 
-## Architecture Diagram
+## Architecture_Diagram
 ![Architecture Diagram](AWS_ClickStreaming.jpg)
