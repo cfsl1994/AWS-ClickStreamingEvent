@@ -10,7 +10,7 @@ This guide will assist in configuring the laboratory environment for real-time c
 ## Setup
 ###  AWS KINESIS DATA FIREHOUSE:
 
-####   Transform and convert records
+#### Transform and convert records
         - Data transformation -> On
         - Buffer size -> 1 MiB
         - Buffer interval -> 60 seconds
