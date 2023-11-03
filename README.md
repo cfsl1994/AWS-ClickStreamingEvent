@@ -68,5 +68,20 @@ This guide will assist in configuring the laboratory environment for real-time c
         - Compatible architectures -> x86_64
         - Version ARN -> YOUR ARN
 
+### AWS SNS:
+
+#### Details
+        - Name -> ClickStreamingTopic
+        - Display name -> ClickStreamingTopic
+        - ARN -> YOUR ARN
+        - Type -> Standard
+        - Topic owner -> YOUR TOPIC OWNER
+
+#### Subscriptions
+        - ID -> YOUR NUMBER
+        - PROTOCOL -> SMS
+        - ID -> YOUR EMAIL
+        - PROTOCOL -> EMAIL
+
 ## Architecture-Diagram
 ![Architecture Diagram](AWS_ClickStreaming.jpg)
