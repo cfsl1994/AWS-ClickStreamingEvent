@@ -10,4 +10,4 @@ This guide will assist in configuring the laboratory environment for real-time c
 ## Setup
 
 ## Architecture Diagram
-[Architecture Diagram](AWS_ClickStreaming.jpg)
+![Architecture Diagram](AWS_ClickStreaming.jpg)
