@@ -5,4 +5,6 @@
 * Architecture Diagram
 
 ## Introduction
-This guide will help us configure the lab environment for real-time clickstream anomaly detection. This environment should be considered for practical purposes.
+This guide will assist in configuring the laboratory environment for real-time clickstream anomaly detection, emphasizing its practical application.
+
+## Setup
