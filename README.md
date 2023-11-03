@@ -83,5 +83,10 @@ This guide will assist in configuring the laboratory environment for real-time c
         - ID -> YOUR EMAIL
         - PROTOCOL -> EMAIL
 
+### AWS S3:
+
+#### Create your own raw and processed data bucket
+
+
 ## Architecture-Diagram
 ![Architecture Diagram](AWS_ClickStreaming.jpg)
