@@ -10,7 +10,7 @@ This guide will assist in configuring the laboratory environment for real-time c
 ## Setup
 ###  AWS KINESIS DATA FIREHOUSE:
 
-  #### Transform and convert records
+#### Transform and convert records
   -----------------------------
 - Data transformation -> On
 - Buffer size -> 1 MiB
@@ -21,7 +21,7 @@ This guide will assist in configuring the laboratory environment for real-time c
 - Timeout -> 1 minute
 - All default configuration
 
-Destination settings
+#### Destination settings
 --------------------
 - S3 bucket -> YOUR DATA RAW BUCKET
 - S3 bucket prefix -> YOUR PREFIX BUCKET
