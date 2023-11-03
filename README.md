@@ -7,8 +7,9 @@
 ## Introduction
 This guide will assist in configuring the laboratory environment for real-time clickstream anomaly detection, emphasizing its practical application.
 
+- Google Colab: Who generate real time data for clickstream anomaly (ClickStreamingEvent.py).
 - Two Amazon Simple Storage Service (Amazon S3) buckets: You will use these buckets to persist raw and processed data.
-- One AWS Lambda function: This Lambda function will be triggered once an anomaly has been detected.
+- One AWS Lambda function: This Lambda function (lambda_function.py) will be triggered once an anomaly has been detected.
 - Amazon Simple Notification Service (Amazon SNS) topic with an email and phone number subscribed to it: The Lambda function will publish to this topic once an anomaly has been detected.
 
 ## Setup
