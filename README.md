@@ -1,7 +1,7 @@
 # AWS-ClickStreamingEvent
 ## Steps
 - [Introduction](##Introduction)
-* Setup
+- [Setup](##Setup)
 - [Architecture Diagram](##Architecture-Diagram)
 
 ## Introduction
