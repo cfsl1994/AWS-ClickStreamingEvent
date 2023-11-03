@@ -29,23 +29,23 @@ This guide will assist in configuring the laboratory environment for real-time c
 - Buffer interval -> 300 seconds
 - All default configuration
 
-Backup settings
+#### Backup settings
 ---------------
 - All default configuration
 
-Server-side encrytion
+#### Server-side encrytion
 ---------------------
 - All default configuration
 
-Destination error logs
+#### Destination error logs
 ----------------------
 - Amazon CloudWatch error logging -> Enabled
 
-Service access
+#### Service access
 --------------
 - IAM role -> YOUR IAM ROLE
 
-Tags
+#### Tags
 ----
 - All default configuration
 
